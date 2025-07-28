@@ -82,7 +82,7 @@ Life_Expectancy_Project/
 
 ## Author
 
-Aman Singh  
+Aman Singh Parihar
 MSc Statistics  
-Email: [your email]
-GitHub: [your GitHub link]
+Email: amanparihar.bhu.stats26@gmail.com
+GitHub: https://github.com/amanparihar27
